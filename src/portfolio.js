@@ -25,7 +25,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
     title: "What i do",
-    subTitle: "FULL STACK, DEVELOPEMENT OF MOBILE AND WEB APPLICATIONS",
+    subTitle: "FULL STACK, DEVELOPER I HAVE CREATED BOTH MOBILE AND WEB APPLICATIONS",
     skills: [
         emoji("⚡ Designing and developing Test Driven Web Applications using Python, Java and JavaScript"),
         emoji("⚡ Used Backend Frameworks like Django and Spring-boot"),
@@ -37,7 +37,7 @@ const skillsSection = {
     https://fontawesome.com/icons?d=gallery */
 
     softwareSkills: [{
-            skillName: "python",
+            skillName: "python ",
             fontAwesomeClassname: "fab fa-python"
         },
         {
