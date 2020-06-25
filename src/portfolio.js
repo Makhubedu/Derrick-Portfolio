@@ -25,12 +25,12 @@ const socialMediaLinks = {
 
 const skillsSection = {
     title: "What i do",
-    subTitle: "FULL STACK, DEVELOPEMENT OF MOBILE AND WEB APPS AND LEARNING INTERNET OF THINGS",
+    subTitle: "FULL STACK, DEVELOPEMENT OF MOBILE AND WEB APPLICATIONS",
     skills: [
-        emoji("⚡ Designing and developing Test Web Applications using Python and Java"),
-        emoji("⚡ Used Backend Frameworkd like Django and Spring"),
-        emoji("⚡Working on Frontend Frameworks like React"),
-        emoji("⚡ Build Mobile Applications Using Android")
+        emoji("⚡ Designing and developing Test Driven Web Applications using Python, Java and JavaScript"),
+        emoji("⚡ Used Backend Frameworks like Django and Spring-boot"),
+        emoji("⚡ Working on Frontend Frameworks like React"),
+        emoji("⚡ Build Android Mobile Applications")
     ],
 
     /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -81,11 +81,15 @@ const techStack = {
             progressPercentage: "70%" //Insert relative proficiency in percentage
         },
         {
-            Stack: "Programming",
+            Stack: "Linux",
             progressPercentage: "80%"
         },
         {
             Stack: "Communication",
+            progressPercentage: "90%"
+        },
+        {
+            Stack: "APIs & JSON",
             progressPercentage: "90%"
         }
     ]
