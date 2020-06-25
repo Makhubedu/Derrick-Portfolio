@@ -25,7 +25,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
     title: "What i do",
-    subTitle: "FULL STACK, DEVELOPER I HAVE CREATED BOTH MOBILE AND WEB APPLICATIONS",
+    subTitle: "FULL STACK DEVELOPER, I HAVE CREATED BOTH MOBILE AND WEB APPLICATIONS",
     skills: [
         emoji("⚡ Designing and developing Test Driven Web Applications using Python, Java and JavaScript"),
         emoji("⚡ Used Backend Frameworks like Django and Spring-boot"),
