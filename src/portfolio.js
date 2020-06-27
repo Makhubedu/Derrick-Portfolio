@@ -9,7 +9,7 @@ const greeting = {
     username: "Derrick MAkhubedu",
     title: "Hi all, I'm Derrick",
     subTitle: emoji("Full-Stack Developer ⚙️ | Computer Science Enthusiast 🎓 | Tech Writer ✍️"),
-    resumeLink: "https://nextcloud.nwu.ac.za/index.php/s/xzw9FPcEL9oJf8x"
+    resumeLink: "https://nextcloud.nwu.ac.za/index.php/s/jSN8WTkC7QAEJRz"
 };
 
 // Your Sociareach Media Link
